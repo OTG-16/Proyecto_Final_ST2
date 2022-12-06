@@ -46,7 +46,7 @@ c = suma(8.5,9.9);
 #### Resultado
 ![E2_2](https://user-images.githubusercontent.com/70919055/201827502-a5e0b5a4-76a3-463d-801a-0a8ed5cb78f8.png)
 - ### Segundo ejemplo
-No obstante, como segunda ejemplo se ingresa en el cuadro correspondiente, el texto
+No obstante, como segundo ejemplo se ingresa en el cuadro correspondiente, el texto
 "int main(){ 
 float a; 
 float b; 
@@ -123,7 +123,7 @@ Se resume en 2 capturas (parte inicial y parte final) el análisis LR para compa
 
 #### Árbol sintáctico 
 ![pf9](https://user-images.githubusercontent.com/70919055/205795609-55fff287-9a53-4718-83c7-e85c9fdcf738.png)
-En la imagen del árbol sintáctico puede apreciarse el mismo, aunque al contener varios tokens, no se logra apreciar muy bien estos y sus enlaces. Para lo cual, si queremos ir navegando a lo largo del árbol tenemos que hacer lo mismo que en segundo ejemplo, aunque para este caso no se realizará un acercamiento a las diferentes partes del árbol para que esta documentación no se haga muy extensa y sea menos tediosa, de todos modos ya en el segundo ejemplo se específico lo necesario para poder hacerlo.
+En la imagen del árbol sintáctico puede apreciarse el mismo, aunque al contener varios tokens, no se logra apreciar muy bien estos y sus enlaces. Para lo cual, si queremos ir navegando a lo largo del árbol tenemos que hacer lo mismo que en el segundo ejemplo, aunque para este caso no se realizará un acercamiento a las diferentes partes del árbol para que esta documentación no se haga muy extensa y sea menos tediosa, de todos modos ya en el segundo ejemplo se específico lo necesario para poder hacerlo.
 #### Tabla de símbolos y código intermedio
 ![pf10](https://user-images.githubusercontent.com/70919055/205796414-82f51689-b739-426d-840b-3eacbe5cc5d1.png)
 
