@@ -46,7 +46,7 @@ c = suma(8.5,9.9);
 #### Resultado
 ![E2_2](https://user-images.githubusercontent.com/70919055/201827502-a5e0b5a4-76a3-463d-801a-0a8ed5cb78f8.png)
 - ### Segundo ejemplo
-No obstante, como segundo ejemplo se ingresa en el cuadro correspondiente, el texto
+No obstante, como segunda ejemplo se ingresa en el cuadro correspondiente, el texto
 "int main(){ 
 float a; 
 float b; 
@@ -66,9 +66,9 @@ if (c>9){
 ![o2](https://user-images.githubusercontent.com/70919055/205815341-217923e5-16bb-4882-bf90-e936f84907b3.png)
 #### Análisis LR
 #### >>> Parte inicial del análisis LR
-![o3](https://user-images.githubusercontent.com/70919055/205815401-0b5ace44-5fa9-423c-a6af-ff8308d02160.png)
+![two](https://user-images.githubusercontent.com/70919055/205820420-7990a46d-bd77-4b4a-bbd2-d6d3dc72271f.png)
 #### >>> Parte final del análisis LR
-![o4](https://user-images.githubusercontent.com/70919055/205815488-b3105c37-02b5-4cde-b56e-2ba3645b8ccf.png)
+![two_2](https://user-images.githubusercontent.com/70919055/205820486-bd52ad0e-34f2-49db-9b76-1dc25d72efad.png)
 Se resume en 2 capturas (parte inicial y parte final) el análisis LR para compactar la presentación de este.
 #### Árbol sintáctico 
 ![o5](https://user-images.githubusercontent.com/70919055/205815614-f23a3e16-8f6e-4180-9e48-e0802cd0bd35.png)
@@ -116,14 +116,14 @@ Finalmente, como tercer ejemplo se ingresa en el cuadro correspondiente, el text
 ![pf4](https://user-images.githubusercontent.com/70919055/205793756-3f2911af-3185-4d47-82b5-b456c207bb09.png)
 #### Análisis LR
 #### >>> Parte inicial del análisis LR 
-![pf7](https://user-images.githubusercontent.com/70919055/205795101-88076af1-d476-4112-a953-ca75a79d9109.png)
+![three](https://user-images.githubusercontent.com/70919055/205820584-3a85891d-4637-4d82-aacc-063fda32f5d5.png)
 #### >>> Parte final del análisis LR
-![pf8](https://user-images.githubusercontent.com/70919055/205795281-467cadb2-4d4a-40c0-935b-980989dab37c.png)
+![three_2](https://user-images.githubusercontent.com/70919055/205820663-7bfac261-2735-4a80-bd61-0357c81b976e.png)
 Se resume en 2 capturas (parte inicial y parte final) el análisis LR para compactar la presentación de este.
 
 #### Árbol sintáctico 
 ![pf9](https://user-images.githubusercontent.com/70919055/205795609-55fff287-9a53-4718-83c7-e85c9fdcf738.png)
-En la imagen del árbol sintáctico puede apreciarse el mismo, aunque al contener varios tokens, no se logra apreciar muy bien estos y sus enlaces. Para lo cual, si queremos ir navegando a lo largo del árbol tenemos que hacer lo mismo que en el segundo ejemplo, aunque para este caso no se realizará un acercamiento a las diferentes partes del árbol para que esta documentación no se haga muy extensa y sea menos tediosa, de todos modos ya en el segundo ejemplo se específico lo necesario para poder hacerlo.
+En la imagen del árbol sintáctico puede apreciarse el mismo, aunque al contener varios tokens, no se logra apreciar muy bien estos y sus enlaces. Para lo cual, si queremos ir navegando a lo largo del árbol tenemos que hacer lo mismo que en segundo ejemplo, aunque para este caso no se realizará un acercamiento a las diferentes partes del árbol para que esta documentación no se haga muy extensa y sea menos tediosa, de todos modos ya en el segundo ejemplo se específico lo necesario para poder hacerlo.
 #### Tabla de símbolos y código intermedio
 ![pf10](https://user-images.githubusercontent.com/70919055/205796414-82f51689-b739-426d-840b-3eacbe5cc5d1.png)
 
