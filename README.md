@@ -1,4 +1,4 @@
-# Proyecto Final 
+# Proyecto Final (Compilador)
 Este proyecto fue realizado en el lenguage de programación Python, utilizando la versión 3.10 y empleando el entorno de Visual Studio Code para su desarrollo. No obstante, se trabajó a modo de consola e interfaz (utilizando la librería de Pyside2 del entorno QT), realizando esta compactación hibrida para un mejor manejo de la información procesada.
 
 ## Instalación
