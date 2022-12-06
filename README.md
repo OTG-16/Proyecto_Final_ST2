@@ -6,7 +6,7 @@ Este proyecto fue realizado en el lenguage de programación Python, utilizando l
 Dar clic en Code, luego en Donwload ZIP y después de que termine la descarga, descomprimirlo.
 
 ### 2da forma.
-Crear una carpeta, ingresar a git bash y ejecutar el siguiente comando:  git clone 
+Crear una carpeta, ingresar a git bash y ejecutar el siguiente comando:  git clone https://github.com/OTG-16/Proyecto_Final_ST2.git
 
 ### Nota
 Es importante resaltar que en este proyecto se utilizan herramientas que deben ser instaladas previamente para el correcto funcionamiento de este analizador. Entre ellas están las siguientes:
